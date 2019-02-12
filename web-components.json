@@ -1,0 +1,62 @@
+{
+  "tags": [
+    {
+      "label": "analog-clock",
+      "description": "",
+      "attributes": []
+    },
+    {
+      "label": "clock-face",
+      "description": "",
+      "attributes": [
+        {
+          "label": "hour",
+          "description": "",
+          "required": false
+        },
+        {
+          "label": "minute",
+          "description": "",
+          "required": false
+        },
+        {
+          "label": "second",
+          "description": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "label": "my-component",
+      "description": "",
+      "attributes": [
+        {
+          "label": "first",
+          "description": "The first name",
+          "required": false
+        },
+        {
+          "label": "last",
+          "description": "The last name",
+          "required": false
+        },
+        {
+          "label": "middle",
+          "description": "The middle name",
+          "required": false
+        }
+      ]
+    },
+    {
+      "label": "time-zone-slider",
+      "description": "",
+      "attributes": [
+        {
+          "label": "offset",
+          "description": "",
+          "required": false
+        }
+      ]
+    }
+  ]
+}
