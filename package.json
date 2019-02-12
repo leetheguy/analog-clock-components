@@ -1,0 +1,19 @@
+{
+  "name": "analog-clock",
+  "version": "1.0.0",
+  "description": "The stencil.js components for my analog clock tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leetheguy/analog-clock-components.git"
+  },
+  "author": "Lee Nathan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leetheguy/analog-clock-components/issues"
+  },
+  "homepage": "https://github.com/leetheguy/analog-clock-components#readme"
+}
